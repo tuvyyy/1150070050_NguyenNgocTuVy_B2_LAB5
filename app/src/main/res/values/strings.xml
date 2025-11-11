@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab 5 - Animation &amp; QuickCall</string>
+
+    <!-- Main menu -->
+    <string name="menu_title">Lab 5</string>
+    <string name="go_animation">Luyện tập 1: Animation</string>
+    <string name="go_quickcall">Luyện tập 2: QuickCall</string>
+
+    <!-- Animation -->
+    <string name="txt_scale">Scale</string>
+    <string name="txt_trans">Trans</string>
+    <string name="txt_rotate">Rotate</string>
+    <string name="txt_alpha">Alpha</string>
+    <string name="txt_random">Random</string>
+
+    <!-- QuickCall -->
+    <string name="quick_call_app">Quick Call</string>
+    <string name="txt_mom">Mom</string>
+    <string name="txt_dad">Dad</string>
+    <string name="txt_crush">Crush</string>
+    <string name="txt_best_friend">Best friend</string>
+    <string name="phone_mom">096666543</string>
+    <string name="phone_dad">096666544</string>
+    <string name="phone_crush">096886543</string>
+    <string name="phone_best_friend">099966543</string>
+</resources>
